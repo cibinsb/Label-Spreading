@@ -1,0 +1,1 @@
+An Implemenation of "Learning with local and global consistency." by Zhou, Dengyong, et al.
